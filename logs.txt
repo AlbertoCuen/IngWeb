@@ -1,0 +1,35 @@
+commit 43bee5144072f3145b0235fbfed76ce2618924e0
+Author: Alberto <cuen2504@gmail.com>
+Date:   Thu Jun 23 11:32:37 2016 -0600
+
+    añadiendo pie de pagina
+
+commit 468593c74ece984f88e48efd9e1c4f4b2129b903
+Author: Alberto <cuen2504@gmail.com>
+Date:   Thu Jun 23 11:27:49 2016 -0600
+
+    contenido de la pagina
+
+commit 97e16e286bc5aac2bc01640598618f7a2502e7b6
+Author: Alberto <cuen2504@gmail.com>
+Date:   Thu Jun 23 11:15:47 2016 -0600
+
+    prueba
+
+commit 863f71177a9724a8912221bd567a805ca0503c54
+Author: Alberto <cuen2504@gmail.com>
+Date:   Thu Jun 23 11:14:06 2016 -0600
+
+    Bootstrap integrado
+
+commit e2e8120c68f8737cb2fa74d3ca6ed28df0766d20
+Author: Alberto <cuen2504@gmail.com>
+Date:   Thu Jun 23 11:10:23 2016 -0600
+
+    Encabezado
+
+commit 97c061f7498a6438e6e9ae7fbb6f2b9afcdd74ac
+Author: Alberto <cuen2504@gmail.com>
+Date:   Thu Jun 23 11:03:11 2016 -0600
+
+    Estructura base del proyecto
